@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CP2019 40623153 計算機程式 - Misc</title><link href="https://40623153.github.io/cp2019/blog/" rel="alternate"></link><link href="https://40623153.github.io/cp2019/blog/feeds/misc.atom.xml" rel="self"></link><id>https://40623153.github.io/cp2019/blog/</id><updated>2019-11-07T11:00:00+08:00</updated><entry><title>2019 Fall CP 課程 期中考</title><link href="https://40623153.github.io/cp2019/blog/2019-Fall-32-bit-Windows.html" rel="alternate"></link><published>2019-11-07T11:00:00+08:00</published><updated>2019-11-07T11:00:00+08:00</updated><author><name>40623153</name></author><id>tag:40623153.github.io,2019-11-07:/cp2019/blog/2019-Fall-32-bit-Windows.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CP2019 40623153 計算機程式 - Misc</title><link href="https://40623153.github.io/cp2019/blog/" rel="alternate"></link><link href="https://40623153.github.io/cp2019/blog/feeds/misc.atom.xml" rel="self"></link><id>https://40623153.github.io/cp2019/blog/</id><updated>2019-11-07T11:00:00+08:00</updated><entry><title>2019 Fall CP 課程 期中考</title><link href="https://40623153.github.io/cp2019/blog/2019-Fall-32-bit-Windows.html" rel="alternate"></link><published>2019-11-07T11:00:00+08:00</published><updated>2019-11-07T11:00:00+08:00</updated><author><name>40623153</name></author><id>tag:40623153.github.io,2019-11-07:/cp2019/blog/2019-Fall-32-bit-Windows.html</id><summary type="html">&lt;p&gt;期中影片&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;期中影片&lt;/p&gt;
+
 
 &lt;h2&gt;電腦規格&lt;/h2&gt;
-&lt;p&gt;目前系上已經沒有 32 位元 Windows 操作系統的電腦, 所以先前只要有學生提到所使用的電腦是舊型 32 位元的 Windows XP 或 Windows 7, 都無法提供相應的可攜程式系統.&lt;/p&gt;
-&lt;p&gt;但是, 當您桌上就只一台早期 Sony 推出的 VGC-LM26T 電腦, 採用 Intel core 2 Duo T8100 2.1 GHz 裝載 32 位元 Windows 7, 記憶體只有 2GB 的老舊電腦.&lt;/p&gt;
-&lt;p&gt;夠用嗎?&lt;/p&gt;
-&lt;p&gt;當然可以, 使用的是特別製作的 &lt;a href="https://mde1a1.kmol.info/2017fall/raw/p37_32.7z?name=c272a694f98180f8d1272b43f7d7b4fdd8f7f550"&gt;32 位元可攜系統&lt;/a&gt;, 除了不支援 Eric6 之外, 其餘功能都與 64 位元的  &lt;a href="https://drive.google.com/file/d/1DWtyoUhl8CycKJ8uulB3viRXE39KqpE1/view?usp=sharing"&gt;p37&lt;/a&gt; 相同.&lt;/p&gt;
-&lt;h2&gt;工作流程&lt;/h2&gt;
+&lt;p&gt;期中影片 &lt;a href="https://youtu.be/HxAihL7LnhU"&gt;CP2019期中影片&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;從 2018 Fall 開始, 前半學期希望每位計算機程課程的學員, 都能透過 &lt;a href="http://mde.tw/cp2018/content/"&gt;2018 計算機程式教材&lt;/a&gt; 內容, 深入學習 Python 3 各種程式語法, 利用 &lt;a href="https://github.com/chiamingyen/cmsimfly"&gt;CMSimfly&lt;/a&gt;、&lt;a href="https://github.com/getpelican/pelican"&gt;Pelican&lt;/a&gt; 與 &lt;a href="https://revealjs.com/"&gt;Reveal.js&lt;/a&gt;, 熟悉如何在 &lt;a href="https://github.com/"&gt;Github&lt;/a&gt; 配置自己的網站、網誌與網際簡報系統.&lt;/p&gt;
 &lt;p&gt;使用時, 啟動隨身系統的 start.bat, 利用命令列指令, git clone https://github.com/mdecourse/2018fall, 然後將內容配置在各自的 &lt;a href="https://github.com/"&gt;Github&lt;/a&gt; 帳號下.&lt;/p&gt;
 &lt;h2&gt;程式專案&lt;/h2&gt;
