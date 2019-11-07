@@ -7,8 +7,8 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Klia8sXVSS0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;ol&gt;
-&lt;li&gt;[個人網站]&lt;/li&gt;
-&lt;li&gt;[個人倉儲]&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://40623153.github.io/cp2019/content/index.html"&gt;CP2019個人網站&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[CP2109個人倉儲]&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;期中影片 &lt;a href="https://youtu.be/Klia8sXVSS0"&gt;CP2019期中影片&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;</content><category term="2019FallCP"></category></entry><entry><title>2018 Fall CP 課程</title><link href="https://40623153.github.io/cp2019/blog/2018-Fall-32-bit-Windows.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:40623153.github.io,2018-09-10:/cp2019/blog/2018-Fall-32-bit-Windows.html</id><summary type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
