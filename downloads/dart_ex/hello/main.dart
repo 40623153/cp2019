@@ -1,3 +1,3 @@
-void main() {
- print("Hello你在看我嗎?");
+main(){
+    print("hello");
 }
