@@ -1,6 +1,5 @@
 // 因為要使用超文件表單, 因此導入 html 程式庫
 import "dart:html";
-​
 KtoL(num kg) {
   return kg * 2.20462262;
 }
