@@ -165,6 +165,10 @@ function getFlutter(dirname){
     source = "https://dartpad.github.io/embed-flutter.html?gh_owner=40623153&gh_repo=CP2019&gh_path=downloads/dart_ex/" + dirname + "&theme=dark";
 document.getElementById("iframe").src = source ;
 }
+function getFlutter(dirname){
+    source = "https://dartpad.github.io/embed-flutter.html?gh_owner=40623153&gh_repo=CP2019&gh_path=downloads/dart_ex/" + dirname + "&theme=dark";
+document.getElementById("iframe").src = source ;
+}
 
 function largest(){
 document.getElementById("iframe").width = document.body.clientWidth ;
@@ -185,7 +189,7 @@ document.getElementById("iframe").height = 600 ;
 <p><button onclick="getDart('weight_transfer')">重量單位轉換</button></p>
 <h4>Html 程式</h4>
 <p><button onclick="getHtmlDart('roc_flag')">ROC Flag</button> <button onclick="getHtmlDart('grid')">Grid</button> <button onclick="getHtmlDart('xyplot')">X-Y Plot</button> <button onclick="getHtmlDart('slithery')">Slithery</button></p>
-<p><button onclick="getHtmlDart('temperature-1')">temperature-1</button></p>
+<p><button onclick="getHtmlDart('temperature-1')">temperature-1</button> <button onclick="getHtmlDart('weight')">weight</button></p>
 <h4>Flutter 程式</h4>
 <p><button onclick="getFlutter('flutter1')">Flutter1</button> <button onclick="getFlutter('flutter2')">Flutter2</button> <button onclick="getFlutter('flutter3')">Flutter3</button></p>
 <p><!-- 內建放入的 Dart 原始碼 --></p>
