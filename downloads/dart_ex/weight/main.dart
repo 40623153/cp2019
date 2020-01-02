@@ -4,19 +4,15 @@ import "dart:html";
 KtoL(num kg) {
   return kg * 2.20462262;
 }
-​
 LtoK(num lb) {
   return lb / 2.20462262;
 }
-​
-​
 // 每一個 Dart 程式都從 main() 開始執行
 main() {
     // 透過表單, 取得使用者輸入的溫度值, 語法為數字加上 C 或 F
     InputElement tempInput = querySelector("#temp");
     querySelector("#submit").onClick.listen((e) => convert(tempInput.value));
 }
-​
 convert(String data){
   // 宣告 len 整數變數, 準備設為各字串的長度
   int len;
