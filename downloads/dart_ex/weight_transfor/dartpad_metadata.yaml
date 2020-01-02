@@ -1,0 +1,6 @@
+name: Dart Weight transfor
+mode: html
+files:
+  - name: main.dart
+  - name: index.html
+  - name: style.css
