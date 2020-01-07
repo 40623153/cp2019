@@ -184,7 +184,8 @@ document.getElementById("iframe").height = 600 ;
                     </script>
             -->
 <script src="/get_page/cmsimde/static/chimper/js/main.js"></script>
-<p></p><h1>Class document.</h1>
+<p></p>
+<h1>Class document.</h1>
 <p><a href="https://drive.google.com/file/d/1hZqNsOj4_47hVcRRl0UdwL5BW7yatPMo/view">參考教學網站連結</a></p>
 <p>1.進入<strong><a href="https://40623155.github.io/mde.tw">mde.tw</a></strong>，點選課程 <strong><a href="http://mde.tw/cp2019">2019 Fall 計算機程式</a></strong> </p>
 <p>下載 <strong><a href="https://drive.google.com/file/d/1lNCUsmRtsl5K128Oa2lbN2ZmriXynrQP/view?usp=sharing">dartpad_based.7z</a></strong><span>  (可攜程式)後進行解壓縮</span></p>
@@ -292,12 +293,45 @@ document.getElementById("iframe").height = 600 ;
 <p><!-- 內建放入的 Dart 原始碼 --></p>
 <p><button onclick="getHtmlDart('weight')">weight</button></p>
 <p><iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40623153&amp;gh_repo=CP2019&amp;gh_path=downloads/dart_ex/weight_transfer&amp;theme=dark" width="800"></iframe></p>
+<div class="container"></div>
+<p><!-- for site wrap --></p>
+<p></p>
+<!-- <script src="./../cmsimde/static/jquery.js"></script> -->
+<p></p>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+<script src="/get_page/cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script>
+<script src="/get_page/cmsimde/static/tipuesearch/tipuesearch_set.js"></script>
+<script src="/get_page/W17%E8%80%83%E8%A9%A6/tipuesearch_content.js"></script>
+<script src="/get_page/cmsimde/static/tipuesearch/tipuesearch.js"></script>
+<script>
+/* original tipuesearch
+            $(document).ready(function() {
+                 $('#tipue_search_input').tipuesearch();
+            });
+            */
+            // customed doSearch
+            function doSearch() {
+                $('#tipue_search_input').tipuesearch({
+                    newWindow: true, 
+                    minimumLength: 2,
+                    wholeWords: false, // for search 中文
+                });
+            }
+            $(document).ready(doSearch);
+</script>
+<p></p>
+<p></p>
+<p></p>
+<p><br/><a href="https://colorlib.com" target="_blank"></a></p>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+<div class="container"><nav>
 <div class="container">
 <div class="row pt-3 mx-auto"></div>
 </div>
-<p><!-- for site wrap --></p>
+<!-- for footer --></nav></div>
+<!-- for site wrap -->
 <p></p>
-<p><!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
+<!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
 <script src="/get_page/cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"></script>
 <script src="/get_page/cmsimde/static/chimper/js/jquery-ui.js"></script>
 <script src="/get_page/cmsimde/static/chimper/js/popper.min.js"></script>
@@ -323,11 +357,3 @@ document.getElementById("iframe").height = 600 ;
                     </script>
             -->
 <script src="/get_page/cmsimde/static/chimper/js/main.js"></script>
-</p>
-<p><iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823120&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/rungekutta&amp;theme=dark" width="800"></iframe></p>
-<p>JS程式 請輸入所要轉換的重量(lb或kg)<br/>以數字加上 lb 或 kg:<br/><br/><input id="weight" style="background-color: #fff;" type="text" value="20kg"/> <input id="submit" type="button" value="換算"/><br/> <br/>轉換結果:<br/><br/><label id="output"></label>
-<script src="/get_page/downloads/weight.js"></script>
-<canvas height="200" id="canvas" width="380"></canvas> <button id="button">Clear Canvas</button> <button id="roc">Draw ROC</button> <button id="jp">Draw JP</button> <button id="france">Draw France</button> <button id="russia">Draw Russia</button>
-<script src="/get_page/downloads/flag.js"></script>
-</p>
-<p></p>
