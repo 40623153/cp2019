@@ -63,6 +63,9 @@
 <v t="leo.20200107190436.1"><vh>課程成果</vh>
 <v t="leo.20200107190436.2"><vh>usaflag</vh></v>
 </v>
+<v t="leo.20200107195559.1"><vh>課程成果</vh>
+<v t="leo.20200107195559.2"><vh>end</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -93,10 +96,11 @@
 
 						
 </t>
-<t tx="leo.20180902120523.12"># 操作筆記
+<t tx="leo.20180902120523.12">## 操作筆記
 
 
-&lt;img src ="./../images\操作筆記\note1.png"  width="=800" height="450
+&lt;img src ="./../images\note1.jpg"  width="=800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
 
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
@@ -346,9 +350,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200107171035.2"># pull request操作影片
+<t tx="leo.20200107171035.2">## pull request操作影片
 
-&lt;iframe width="560" height="315" src="https://youtu.be/QMMV-U8NHC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="934" height="506" src="https://www.youtube.com/embed/QMMV-U8NHC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200107173907.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -358,9 +362,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200107173907.2"># SSH操作video
+<t tx="leo.20200107173907.2">## SSH操作video
 
-&lt;iframe width="560" height="315" src="https://youtu.be/O05x3kxWKHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="943" height="506" src="https://www.youtube.com/embed/O05x3kxWKHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
@@ -395,11 +399,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200107181834.2"># Dia操作影片
+<t tx="leo.20200107181834.2">## Dia操作影片
 
 
-&lt;iframe width="560" height="315" src="https://youtu.be/9XQEz6ZREb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width="943" height="506" src="https://www.youtube.com/embed/9XQEz6ZREb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20200107181836.1">&lt;section data-markdown&gt;
@@ -411,12 +414,12 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200107181836.2"># w17test
+<t tx="leo.20200107181836.2">## w17test
 
+* [W17考試](https://40623153.github.io/cp2019/content/W17%E8%80%83%E8%A9%A6.htmll)
 
-&lt;img src ="./../images\w17test\w17.png"  width="=800" height="450
+&lt;img src ="./../images\w17.jpg"  width="=800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
-[W17考試](https://40623153.github.io/cp2019/content/W17%E8%80%83%E8%A9%A6.htmll)
 </t>
 <t tx="leo.20200107181838.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -427,12 +430,12 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200107181838.2"># w16test
+<t tx="leo.20200107181838.2">## w16test
 
+* [W16考試](https://40623153.github.io/cp2019/content/W16%20%E6%9F%A5%E9%A9%97%E8%80%83%E8%A9%A6.html)
 
-&lt;img src ="./../images\w16test\w16.png"  width="=800" height="450
+&lt;img src ="./../images\w16.jpg"  width="=800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 
-[W16查驗考試](https://40623153.github.io/cp2019/content/W16%20%E6%9F%A5%E9%A9%97%E8%80%83%E8%A9%A6.html)
 
 </t>
 <t tx="leo.20200107181839.1">&lt;section data-markdown&gt;
@@ -444,10 +447,12 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200107181839.2"># 課堂筆記blog
+<t tx="leo.20200107181839.2">## 課堂筆記blog
 
 * 個人Blog維護
-&lt;img src ="./../images\課堂筆記blog\blog1.png"  width="=800" height="450
+
+&lt;img src ="./../images\blog1.jpg"  width="=800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
 
 </t>
 <t tx="leo.20200107181841.1">&lt;section data-markdown&gt;
@@ -459,10 +464,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200107181841.2"># 課堂筆記1219
+<t tx="leo.20200107181841.2">## 課堂筆記1219
 
 
-&lt;img src ="./../images\課堂筆記1219\note5.png"  width="=800" height="450
+&lt;img src ="./../images\note5.jpg"  width="=800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
 
 </t>
 <t tx="leo.20200107181842.1">&lt;section data-markdown&gt;
@@ -474,10 +480,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200107181842.2"># 課堂筆記1017
+<t tx="leo.20200107181842.2">## 課堂筆記1017
 
 
-&lt;img src ="./../images\課堂筆記1017\note4.png"  width="=800" height="450
+&lt;img src ="./../images\note4.jpg"  width="=800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
 
 </t>
 <t tx="leo.20200107181844.1">&lt;section data-markdown&gt;
@@ -489,10 +496,11 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200107181844.2"># 課堂筆記1212
+<t tx="leo.20200107181844.2">## 課堂筆記1212
 
 
-&lt;img src ="./../images\課堂筆記1212\note2.png"  width="=800" height="450
+&lt;img src ="./../images\note2.jpg"  width="=800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
+
 
 </t>
 <t tx="leo.20200107182009.1">&lt;section data-markdown&gt;
@@ -528,14 +536,14 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200107190436.2"># Dartpad
+<t tx="leo.20200107190436.2">## Dartpad美國國旗
 
 
 &lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40623153&amp;amp;gh_repo=CP2019&amp;amp;gh_path=downloads/dart_ex/usa_flag&amp;amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
-<t tx="leo.20200107191842.1"># Dartpad重量轉換
+<t tx="leo.20200107191842.1">## Dartpad重量轉換
 
 
 &lt;iframe width="800" height="550" src="https://dartpad.dev/embed-inline.html?id=3722d278218bed9e6d0fe4327a2d8cee&amp;amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
@@ -551,10 +559,27 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200107191858.2"># Dartpad重量轉換html
+<t tx="leo.20200107191858.2">## Dartpad重量轉換html
 
 
 &lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40623153&amp;amp;gh_repo=CP2019&amp;amp;gh_path=downloads/dart_ex/weight1&amp;amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200107195559.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200107195559.2">## 期末報告
+
+ # End
+
+
 
 
 </t>
